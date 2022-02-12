@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm pbrane
 
+I am attempting to make little incremental games.
+
+[![pbr4ne's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbr4ne&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbr4ne&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+c/o [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pbr4ne/pbr4ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
