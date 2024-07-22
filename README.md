@@ -6,9 +6,11 @@ Play Neon Turbo Throwdown [here on github](https://pbr4ne.github.io/neon-turbo-t
 
 Play There Was Time Now [here on github](https://pbr4ne.github.io/there-was-time-now) or on [itch.io](https://pbrane.itch.io/there-was-time-now)
 
-[![pbr4ne's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbr4ne&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![pbr4ne's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbr4ne&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbr4ne&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 c/o [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
