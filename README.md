@@ -11,8 +11,9 @@ Play There Was Time Now [here on github](https://pbr4ne.github.io/there-was-time
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbr4ne&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--
 [![pbrane's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pbrane\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 c/o [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pbr4ne/pbr4ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
