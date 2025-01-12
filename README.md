@@ -2,6 +2,8 @@
 
 I am attempting to make little incremental games.
 
+Play Equinoctes [here on github](https://pbr4ne.github.io/equinoctes) or on [itch.io](https://pbrane.itch.io/equinoctes)
+
 Play Neon Turbo Throwdown [here on github](https://pbr4ne.github.io/neon-turbo-throwdown) or on [itch.io](https://pbrane.itch.io/neon-turbo-throwdown)
 
 Play There Was Time Now [here on github](https://pbr4ne.github.io/there-was-time-now) or on [itch.io](https://pbrane.itch.io/there-was-time-now)
