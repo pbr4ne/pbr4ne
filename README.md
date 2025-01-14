@@ -1,6 +1,6 @@
 ### Hi, I'm pbrane
 
-I am attempting to make little incremental games.
+I hope you enjoy my little incremental games!
 
 Play Equinoctes [here on github](https://pbr4ne.github.io/equinoctes) or on [itch.io](https://pbrane.itch.io/equinoctes)
 
